@@ -2,6 +2,6 @@
 html scss js with gulp
 
 # Run
-npm i -g gulp
-npm i
-gulp
+- npm i -g gulp
+- npm i
+- gulp
