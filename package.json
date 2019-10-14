@@ -1,0 +1,29 @@
+{
+  "name": "scss-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "html scss js with gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreaminfo/scss-gulp-boilerplate.git"
+  },
+  "keywords": [
+    "gulp",
+    "scss",
+    "html"
+  ],
+  "author": "dreaminfo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreaminfo/scss-gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dreaminfo/scss-gulp-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
